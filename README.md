@@ -6,3 +6,5 @@
 
 
 先预训练，后微调 （run_pretrain.py -> run_classify.py）
+
+有用的trick，见https://github.com/fuxuelinwudi/ccks2021_track3_baseline
